@@ -1,7 +1,10 @@
 
 //setup audio files
 var wrongAudio = new Audio("sounds/wrong.mp3");
-
+var greenAudio = new Audio("sounds/green.mp3");
+var blueAudio = new Audio("sounds/blue.mp3");
+var redAudio = new Audio("sounds/red.mp3");
+var yellowAudio = new Audio("sounds/yellow.mp3");
 
 // Button Sequence (Array)
 var sequence = new Array();
